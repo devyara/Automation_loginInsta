@@ -17,10 +17,10 @@ I validate sign in page
     Element Should Be Visible       ${Validate_LoginForm}
 
 I type username registred
-    Input Text                   ${Username_registered}                 depidee_
+    Input Text                   ${Username_registered}                 depi***_
 
 I type password registred in page
-    Input Text                      ${Password}                 devy081297
+    Input Text                      ${Password}                 devy******
 
 I click Log In Button
     Click Element                   ${Button_Login}
